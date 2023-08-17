@@ -1,8 +1,7 @@
 
 SHRI SITARAM
 ram ram
-sitaram sitaram
-jay hanuman
+sitaram sitarams
 
 
 # CraftAPIClient
